@@ -1,1 +1,1 @@
-echo "Hello from main branch!" > service
+echo "Hello from feature branch!" > service
